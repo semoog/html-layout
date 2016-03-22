@@ -1,0 +1,34 @@
+.blue {
+  background: #4a90e2;
+  height: 700px;
+  width: 33.33333%;
+  float: left;
+  display: inline-block;
+}
+.green {
+  background: #a7d37a;
+  height: 700px;
+  width: 33.33333%;
+  float: middle;
+  display: inline-block;
+}
+.teal {
+  background: #50e3c2;
+  height: 700px;
+  width: 33.33333%;
+  float: right;
+  display: inline-block;
+}
+.image {
+  background: #d0021b;
+  height: 15%;
+  width: inherit;
+  position: absolute;
+  bottom: -20;
+}
+#placeholder-text {
+  font-family: arial;
+  color: white;
+  text-align: center;
+  margin-top: 45;
+}
